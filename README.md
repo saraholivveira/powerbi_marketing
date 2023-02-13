@@ -14,3 +14,7 @@ Para a análise das campanhas de marketing, foi colocado um gráfico de dispers�
 ![image](https://user-images.githubusercontent.com/89671532/218470457-b0abbe65-fde3-44fd-915d-60b8c7bd16d2.png)<br><br>
 
 Para a visão de campanhas, foram adotados gráficos que mostram o comportamento dos clientes frente às campanhas de marketing. Pode ser observado que 16% dos clientes finalizaram compras diretamente pelas campanhas. Em sua maioria, eram pessoas solteiras, sem filhos e com curso superior, o que condiz com a análise geral do perfil dos clientes. <br><br>
+
+![image](https://user-images.githubusercontent.com/89671532/218471419-b9c323c6-d4af-493f-95a5-e1eaf445db47.png)<br><br>
+
+Na análise por pontos de vendas, foram exibidos os gastos por país e por segmento, além do número de clientes de cada país - representado pela linha amarela. Ao passar o mouse em cima das barras da primeira visualização, podemos perceber que as categorias se dividem em soma de gastos com alimentos, soma de gastos com brinquedos, soma de gastos com eletrônicos, soma de gastos com móveis, soma de gastos com utilidades e soma de gastos com vestuário. Em todos os países podemos observar um maior valor gasto em eletrônicos, seguido por gastos com móveis. A segunda visualização exibe o gasto total por ano por país. Os Estados Unidos se destacam como maior mercado para a loja em questão em todos os anos estudados, enquanto as posições seguintes variam entre os países.
